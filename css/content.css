@@ -28,33 +28,6 @@
      height: 1000px;
      background-color: rgb(241, 245, 245);
  }
- /* lj 'njuj */
- #Zag{
-     text-align: center;
-     text-decoration: underline;
- }
- 
- 
- .yes{
-     display: flex;
- }
- 
- .fer{
-     margin-left: 10px;
- }
- 
- .gas{
-     border-radius: 3px;
- }
-
- .yes .archit {
-    margin-left: 5px;
- }
- 
- .yes .archit .cas{
-    font-size: 15px;
-    
- }
  
  .aboba{
      display: flex;
